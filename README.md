@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development but also in everything else...
 - 🌱 I’m currently working on:
   - a school project with other students using *[vue 3](https://github.com/vuejs/vue)/[laravel](https://github.com/laravel/framework)*.
-  - a website for myself using *[sveltekit](https://github.com/sveltejs/kit)*.
+  - a [website for myself](https://github.com/yaikohi/portfolio_sveltekit) using *[sveltekit](https://github.com/sveltejs/kit)*.
 
 - 📫 You can contact me through linkedIn...
 
