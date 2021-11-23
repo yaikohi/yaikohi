@@ -6,4 +6,4 @@
 
 - 📫 You can contact me through [LinkedIn](https://www.linkedin.com/in/erik-beem-3a245a117/)!
 
-My school account is @yaikohu with an 'u' at the end instead of an 'i'.
+My school account is @[yaikohu](https://github.com/yaikohu) with an 'u' at the end instead of an 'i'.
