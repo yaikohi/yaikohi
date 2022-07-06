@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yaikohi
 - 👀 I’m interested in front-end development and also in everything else... 
-- 🌱 I’m currently an intern at PTTRNS.ai
+- 🌱 I’m currently experimenting with remixjs, prisma, and possibly tRPC
