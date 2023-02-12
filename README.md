@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaikohi
+- 👋 Hi, I’m ykhi / yaikohi
 - 🌱 I am doing an internship at [CLEVER°FRANKE](https://www.cleverfranke.com/)
 - 😈 been working on some small side projects too!!
 - 👄 I enjoy reading about and using the newest stuff in the software (web & server) world 
