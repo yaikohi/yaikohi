@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @yaikohi
-- 👀 I’m interested in front-end development and also in everything else... 
-- 🌱 I just started a new internship so doing stuff [there](https://www.cleverfranke.com/) rn
+- 🌱 I am doing an internship at [CLEVER°FRANKE](https://www.cleverfranke.com/)
+- 😈 been working on some small side projects too!!
+- 👄 I enjoy reading about and using the newest stuff in the software (web & server) world 
