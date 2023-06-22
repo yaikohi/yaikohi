@@ -1,4 +1,1 @@
-- 👋 Hi, I’m ykhi / yaikohi
-- 🌱 I recently interned at [CLEVER°FRANKE](https://www.cleverfranke.com/), now working at [Dilmah](https://www.dilmahtea.nl/)
-- 😈 been working on some small side projects too!!
-- 👄 I enjoy reading about and using the newest stuff in the software (web & server) world 
+hi
