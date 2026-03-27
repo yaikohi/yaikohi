@@ -1,3 +1,3 @@
 hi
 
-I have been tinkering with golang, datastar, and dangerously hosting services lately.
+im lerning about configuring my linux machines with nixos and setting up homelab in a talos kubernetes cluster 
